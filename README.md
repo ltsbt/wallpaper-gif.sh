@@ -1,5 +1,5 @@
 # wallpaper-gif.sh
-This repository contains a script (wallpaper-gif.sh) for setting an animated GIF as the desktop wallpaper on Linux. The script converts a GIF into an MP4 video and uses xwinwrap to run mpv in the root window, making your GIF appear as the desktop background.
+This repository contains a script (`wallpaper-gif.sh`) for setting an animated GIF as the desktop wallpaper on Linux. The script converts a GIF into an MP4 video and uses xwinwrap to run mpv in the root window, making your GIF appear as the desktop background.
 
 ## Requirements
 - `ffmpeg`
